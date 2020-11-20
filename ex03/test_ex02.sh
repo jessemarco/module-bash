@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bats
 
 @test "Default" {
   run bash ex02.sh resources/1 Ipsum is and
